@@ -10,7 +10,7 @@ Currently, this library can:
 
 * [Newtonsoft.Json](http://www.newtonsoft.com/json)
 * shared_secret.txt with your shared secret code
-* SteamAuth.dll
+* [SteamAuth.dll](https://github.com/geel9/SteamAuth)
 
 # Usage
 Enter shared secret code in shared_secret.txt and run Steam2faGenerator.exe. 
