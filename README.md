@@ -4,7 +4,7 @@ A C# console application that provides Steam Mobile Authenticator functionality.
 # Functionality
 Currently, this library can:
 
-* Generate login codes for a given Shared Secret
+* Generate login codes for a given Shared Secret. 
 
 #Requirements
 
